@@ -21,6 +21,11 @@ span.socials-text {
   border-radius: 66px;
   /* height: 30px; */
 }
+
+/* a.icon {
+  cursor: pointer;
+} */
+
 i.fa.fa-share-alt-square {
   color: #fff !important;
 }
